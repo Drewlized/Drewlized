@@ -8,4 +8,4 @@ Welcome to my GitHub profile. I'm a passionate technophile with a strong backgro
 - 💞️ I’m always open to collaborating on innovative tech projects, whether it's contributing to open-source initiatives or working on something groundbreaking.
 - 📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/andry-diaz/).
 
-Feel free to explore my repositories to see the software projects I've been working on. Let's stay curious, keep learning, and together, we can shape the future of technology! 😄
+Feel free to explore my repositories to see the software projects I've been working on. Let's stay curious, keep learning, and together, we can shape the future of technology! 😄 Update: Currently I have the projects in private but I will bring you public projects in the future
