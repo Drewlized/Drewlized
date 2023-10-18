@@ -1,6 +1,6 @@
 Hi, I'm Andry Diaz! 👋
 
-Welcome to my GitHub profile. I'm a passionate technophile with a strong background in software engineering and web development. Here's a bit more about me:
+Welcome to my GitHub profile. I'm a passionate technophile with a little experience background in software engineering and web development. Here's a bit more about me:
 
 - 👀 I’m deeply interested in software engineering practices, from design patterns to code optimization.
 - 🌱 I’m currently expanding my skill set by exploring the latest frontend and backend web development technologies, including React and Node.js.
